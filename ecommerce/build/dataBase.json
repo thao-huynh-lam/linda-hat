@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Gigima Hat",
+      "desc": "White Gigima",
+      "availableSizes": ["M", "X", "L", "XXL"],
+      "price": 27.6
+      
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Talio Hat",
+      "desc": "Pink Talio",
+      "availableSizes": ["X", "XS", "XL"],
+      "price": 16.4
+      
+    },
+
+    {
+      "id": 3,
+      "sku": 876661122392077,
+      "title": "Lency Hat",
+      "desc": "Grey Lency",
+      "availableSizes": ["XL", "XS", "L"],
+      "price": 32.5
+      
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445677,
+      "title": "Maison Puma Hat",
+      "desc": "Maison Puma",
+      "availableSizes": ["XL", "M", "X"],
+      "price": 41.4
+      
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "Kendan Hat",
+      "desc": "Kendan",
+      "availableSizes": ["S", "M", "XL"],
+      "price": 18.9
+      
+    },
+
+    {
+      "id": 6,
+      "sku": 6090484789343891,
+      "title": "Bohemian Javit Hat",
+      "desc": "Bohemian Javit",
+      "availableSizes": ["M", "L", "XXL"],
+      "price": 26.2
+      
+    },
+
+    {
+      "id": 7,
+      "sku": 18532669286405342,
+      "title": "Bortino Hat",
+      "desc": "Bortino",
+      "availableSizes": ["S", "M", "XL" ],
+      "style": "Trending",
+      "price": 37.4
+      
+    },
+
+    {
+      "id": 8,
+      "sku": 5619496040738316,
+      "title": "Vimita Hat",
+      "desc": "Vimita",
+      "availableSizes": ["M", "L"],
+      "style": "Vintage",
+      "price": 22.8
+      
+    },
+    {
+      "id": 9,
+      "sku": 11600983276356165,
+      "title": "Moltery Hat",
+      "desc": "",
+      "availableSizes": ["XS", "S", "XL"],
+      "price": 18.4
+      
+    }
+  ]
+}
