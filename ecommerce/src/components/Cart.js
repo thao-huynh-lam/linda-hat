@@ -7,7 +7,7 @@ export default class Cart extends Component {
         return (
             <div className="alert alert-info">
                 {cartItems.length === 0
-                    ? "Cart is empty" :
+                    ? " Your cart is empty" :
                     <div>You add {cartItems.length} items to your cart. <hr /></div>
                 }
                 {cartItems.length > 0 &&

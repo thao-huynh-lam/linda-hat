@@ -89,6 +89,38 @@
       "availableSizes": ["XS", "S", "XL"],
       "price": 18.4
       
+    },
+    {
+      "id": 10,
+      "sku": 873334422392056,
+      "title": "Parteno Hat",
+      "desc": "",
+      "availableSizes": ["M", "S", "XS"],
+      "price": 16.3
+      
+    },
+    {
+      "id": 11,
+      "sku": 276661122392052,
+      "title": "Panemi Hat",
+      "desc": "",
+      "availableSizes": ["L", "XXL"],
+      "price": 24.7
+      
+    },
+    {
+      "id": 12,
+      "sku": 906834422752056,
+      "title": "Berguton Hat",
+      "desc": "Berguton Hat",
+      "availableSizes": ["M", "S", "L"],
+      "price": 31.3
+      
     }
+
+
+
+
+
   ]
 }
